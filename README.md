@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Personal Portfolio
 
-You can use the [editor on GitHub](https://github.com/bharti1690/bhartisharma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal portfolio, showcasing my projects and skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
+This portfolio is built using HTML, CSS, and JavaScript. It highlights my work, experiences, and the skills I have acquired over time.
 
-### Markdown
+## Features
+- **Responsive Design**: Works on various devices, ensuring a great user experience on both desktop and mobile.
+- **Smooth Navigation**: Easy-to-use interface with smooth scrolling and intuitive navigation.
+- **Project Showcase**: Detailed descriptions and visuals of my projects.
+- **Contact Form**: Allows visitors to get in touch with me directly through the website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Getting Started
 
-```markdown
-Syntax highlighted code block
+### Prerequisites
+- A modern web browser (e.g., Chrome, Firefox, Safari)
 
-# Header 1
-## Header 2
-### Header 3
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/bharti1690/bharti1690.github.io.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd bharti1690.github.io
+   ```
+### Usage
+1. Open the index.html file in your web browser:
+   ```sh
+   open index.html
+   ```
+2. Explore the portfolio and learn more about my work and skills.
 
-- Bulleted
-- List
+### Contributing
+Contributions are welcome! Please follow these steps to contribute:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bharti1690/bhartisharma.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
